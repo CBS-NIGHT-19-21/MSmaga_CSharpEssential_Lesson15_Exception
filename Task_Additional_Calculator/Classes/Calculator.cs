@@ -1,5 +1,4 @@
-﻿using System.Collections;
-
+﻿
 class Calculator
 {
     private double _operand1 = 0;
